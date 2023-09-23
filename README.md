@@ -35,6 +35,6 @@ Users can utilize this function to explore the Mandelbrot Set by specifying the 
 
 ## How to Utilize
 
-To engage with these visualizations, clone this repository and execute the provided Python scripts. Customize the parameters as needed to delve deeper into the Mandelbrot Set's captivating mathematical intricacies.
+To engage with these visualizations, clone this repository and execute the provided Python script (ipynb). Customize the parameters as needed to delve deeper into the Mandelbrot Set's captivating mathematical intricacies.
 
 Happy exploring!
