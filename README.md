@@ -1,9 +1,8 @@
 # fractactularrr
 **MandelBrot Zoom Fractal**
 
-![image](https://github.com/rajaravindp/fractactularrr/assets/118573661/b706594a-4cde-4a6d-a6d4-2d9f1f232eb6) | ![image](https://github.com/rajaravindp/fractactularrr/assets/118573661/e42e0c13-5d5f-4c9c-b3a7-675bc54513b6)
-
-
+| ![image1](https://github.com/rajaravindp/fractactularrr/assets/118573661/b706594a-4cde-4a6d-a6d4-2d9f1f232eb6) | ![image2](https://github.com/rajaravindp/fractactularrr/assets/118573661/e42e0c13-5d5f-4c9c-b3a7-675bc54513b6) |
+|---|---|
 
 # Mandelbrot Set Visualizations
 
