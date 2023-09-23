@@ -6,7 +6,9 @@ The Mandelbrot Set, often regarded as one of the most iconic objects in fractal 
 The Mandelbrot Set is generated through an iterative process involving complex numbers. For each complex number 
 _c_
 c in the complex plane, the process repeatedly applies a simple mathematical transformation:
-$z_{n+1} = z_n^2 + c$
+```latex
+z_{n+1} = z_n^2 + c
+
 Starting with 
 \(z_0 = 0\)​
  =0, the iteration continues until the magnitude of 
