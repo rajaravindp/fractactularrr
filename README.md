@@ -10,8 +10,9 @@ The Mandelbrot Set, often regarded as one of the most iconic objects in fractal 
 The Mandelbrot Set is generated through an iterative process involving complex numbers. For each complex number \(c\) in the complex plane, the process repeatedly applies a simple mathematical transformation:
 ```latex
 [z_{n+1} = z_{n}^2 + c\]
+```
 
-Starting with ```latex \(z_0 = 0\)```, the iteration continues until the magnitude of \(z_n\) exceeds a predefined threshold, typically 2, or until a maximum number of iterations is reached. The outcome of this process is either an escape or a convergence.
+Starting with (z_0 = 0\), the iteration continues until the magnitude of \(z_n\) exceeds a predefined threshold, typically 2, or until a maximum number of iterations is reached. The outcome of this process is either an escape or a convergence.
 
 Points in the complex plane that cause the iterative process to converge are considered part of the Mandelbrot Set. Conversely, points that lead to an escape are not. The boundary of the Mandelbrot Set represents the demarcation between these two outcomes and is characterized by its intricate and infinitely detailed fractal structure.
 
