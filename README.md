@@ -15,6 +15,16 @@ Starting with $z_0$ = 0\, the iteration continues until the magnitude of $z_n$ e
 
 Points in the complex plane that cause the iterative process to converge are considered part of the Mandelbrot Set. Conversely, points that lead to an escape are not. The boundary of the Mandelbrot Set represents the demarcation between these two outcomes and is characterized by its intricate and infinitely detailed fractal structure.
 
+## Key Concepts
+#### Complex Numbers
+The Mandelbrot Set operates in the realm of complex numbers. A complex number $c$ has a real part (Re) and an imaginary part (Im), often written as $c=Re+Im\cdot i$, where $i$ is the imaginary unit.
+
+#### Iteration
+The core of Mandelbrot Set generation is the iterative process. It begins with an initial complex number $z_0=0$, and for each iteration $n$, it updates $z_{n+1}$ based on the equation $z_{n+1}=z_n^2+c$. This process is repeated until either $|z_n|$ exceeds a threshold (commonly 2) or a maximum number of iterations is reached.
+
+#### Escape and Convergence
+Points in the complex plane that lead to $|z_n|$ exceeding the threshold are considered to "escape" and are not part of the Mandelbrot Set. Conversely, points that do not lead to escape after a certain number of iterations are considered to "converge" and are included in the set.
+
 ## Visual 1: Coarse Representation
 
 In our first visualization, we offer a coarse representation of the Mandelbrot Set, utilizing a limited range of 'x' values. This illustration serves to provide a quick assessment of whether the Mandelbrot sequence remains within a certain range for specific 'n' values, thereby offering a high-level overview of the sequence's finiteness.
