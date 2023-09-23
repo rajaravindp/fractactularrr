@@ -1,7 +1,7 @@
 # fractactularrr
 **MandelBrot Zoom Fractal**
 
-![image](https://github.com/rajaravindp/fractactularrr/assets/118573661/b706594a-4cde-4a6d-a6d4-2d9f1f232eb6) | ![image](https://github.com/rajaravindp/fractactularrr/assets/118573661/c51993eb-4f4c-4a15-a694-cf6942635ebf)
+![image](https://github.com/rajaravindp/fractactularrr/assets/118573661/b706594a-4cde-4a6d-a6d4-2d9f1f232eb6) | https://th.bing.com/th/id/R.54d99530ad6812e953f08198805c5020?rik=eNyrvqxej%2fNQzg&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f2%2f21%2fMandel_zoom_00_mandelbrot_set.jpg&ehk=EMXSQs078mA1CxYSn1Pq%2fOduKv07VHfmsBxj3dVDbdU%3d&risl=&pid=ImgRaw&r=0
 
 
 
