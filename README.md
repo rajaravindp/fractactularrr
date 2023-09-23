@@ -8,9 +8,8 @@
 The Mandelbrot Set, often regarded as one of the most iconic objects in fractal mathematics, is a mathematical set that exhibits remarkable self-similarity and complexity. Named after its discoverer, Benoît B. Mandelbrot, in 1980, this set is defined within the complex plane and is characterized by its intricate boundary, which displays an infinitely detailed, fractal structure.
 
 The Mandelbrot Set is generated through an iterative process involving complex numbers. For each complex number \(c\) in the complex plane, the process repeatedly applies a simple mathematical transformation:
-```latex
-[z_{n+1} = z_{n}^2 + c\]
-```
+
+$[z_{n+1} = z_{n}^2 + c\]$
 
 Starting with (z_0 = 0\), the iteration continues until the magnitude of \(z_n\) exceeds a predefined threshold, typically 2, or until a maximum number of iterations is reached. The outcome of this process is either an escape or a convergence.
 
