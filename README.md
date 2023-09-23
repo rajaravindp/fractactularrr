@@ -1,5 +1,6 @@
 # fractactularrr
 **MandelBrot Zoom Fractal**
+![image](https://github.com/rajaravindp/fractactularrr/assets/118573661/bd9beac7-fbe7-40f4-83ad-07cfbc1a38b0)
 
 # Mandelbrot Set Visualizations
 
