@@ -1,4 +1,4 @@
-# fractactularrr
+# fractacularrr
 **MandelBrot Zoom Fractal**
 
 <table>
